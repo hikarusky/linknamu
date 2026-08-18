@@ -12,9 +12,9 @@ export interface Profile {
 }
 
 export const profile: Profile = {
-  name: "김클로",
-  bio: "세계 최강 바이브코더",
-  avatarUrl: "https://api.dicebear.com/8.x/avataaars/svg?seed=linktree",
+  name: "홍개발",
+  bio: "풀 스택 개발자 | 요즘에는 AI개발에 관심이 많아요",
+  avatarUrl: "https://placehold.co/150x150/orange/white.png",
 };
 
 export const links: LinkItem[] = [
